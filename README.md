@@ -38,10 +38,10 @@ Thông tin chi tiết về khóa học:
 
 7. Hồ sơ: (Tất cả hồ sơ đều phải photo công chứng, có thể bổ sung sau khai giảng 01 tuần và có thể gửi về trung tâm qua đường bưu điện )
 
-Bằng Tốt nghiệp cao nhất từ Đại học trở lên (Nếu bằng có tiếng nước ngoài thì phải công chứng dịch thuật hoặc kèm theo giấy công nhận văn bằng của Bộ GD&ĐT);
-CMND/CCCD (photo công chứng)
-Đơn đăng ký học (tại đây);
-2 ảnh 3x4.
+- Bằng Tốt nghiệp cao nhất từ Đại học trở lên (Nếu bằng có tiếng nước ngoài thì phải công chứng dịch thuật hoặc kèm theo giấy công nhận văn bằng của Bộ GD&ĐT);
+- CMND/CCCD (photo công chứng)
+- Đơn đăng ký học (tại đây): https://docs.google.com/document/d/1GzXD576zFfva4u2ivERKb_jiii7QyzP4/edit
+- 2 ảnh 3x4.
 8. Thông tin liên hệ:
 
                    Trung tâm Đào tạo Phát triển Xã hội - Đại học Tôn Đức Thắng
